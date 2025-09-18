@@ -3,16 +3,8 @@
 torch==2.0.1+cpu
 torchvision==0.15.2+cpu
 torchaudio==2.0.2+cpu
-streamlit
+streamlit==1.37.0
 pillow
 pandas
 numpy
-
-streamlit
-torch
-torchvision
-Pillow
-numpy
-pandas
 scikit-learn
-
