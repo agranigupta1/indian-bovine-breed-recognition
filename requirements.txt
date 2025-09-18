@@ -7,3 +7,12 @@ streamlit
 pillow
 pandas
 numpy
+
+streamlit
+torch
+torchvision
+Pillow
+numpy
+pandas
+scikit-learn
+
